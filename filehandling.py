@@ -1,4 +1,4 @@
-# Creating a new file called munuve.txt and writing something into it
+# Creating a new file called Rio.txt and writing something into it
 
 def create_file():
     filename = "Rio.txt"
@@ -50,5 +50,6 @@ def file_read_write():
 
 # Run the function
 file_read_write()
+
 
 
